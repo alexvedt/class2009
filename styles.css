@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(90deg, #354c52, #1f2862);
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    ALIGN-ITEMS: center;
+}
+h1{
+    color: azure;
+    text-transform: uppercase;
+}
